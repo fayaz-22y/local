@@ -1,3 +1,4 @@
 i am mohammad fayaz
 i am using vs code 
 i am not using the write button 
+i am in a <i class=" fa-camera-alt    "></i>
