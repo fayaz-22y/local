@@ -1,4 +1,10 @@
 i am mohammad fayaz
+i am in the camelq 
+here it is my text file 
 i am using vs code 
 i am not using the write button 
+<<<<<<< HEAD
 i am in a <i class=" fa-camera-alt    "></i>
+=======
+
+>>>>>>> 00c87750f0a623255b241f4be68e75b231e730a8
